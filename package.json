@@ -1,0 +1,22 @@
+{
+  "name": "my-react-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@pika/react": "^16.13.1",
+    "@pika/react-dom": "^16.13.1",
+    "axios": "^0.19.2",
+    "prop-types": "^15.7.2",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "redux-saga": "^1.1.3",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-beta.1",
+    "vite-plugin-react": "^3.0.0"
+  }
+}
